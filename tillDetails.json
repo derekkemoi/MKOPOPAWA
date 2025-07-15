@@ -1,6 +1,7 @@
 {
   "mpesaPaymentDetails": {
     "tillName": "FOOTBALL HIGHWAY",
-    "tillNumber": 5204479
+    "tillNumber": 5204479,
+    "amount": "Ksh 100"
   }
 }
